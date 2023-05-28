@@ -1,0 +1,10 @@
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\bin\Debug\CustomCursor.exe.config
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\bin\Debug\CustomCursor.exe
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\bin\Debug\CustomCursor.pdb
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\obj\Debug\CustomCursor.csproj.AssemblyReference.cache
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\obj\Debug\CustomCursor.Properties.Resources.resources
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\obj\Debug\CustomCursor.csproj.GenerateResource.cache
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\obj\Debug\CustomCursor.csproj.CoreCompileInputs.cache
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\obj\Debug\CustomCursor.exe
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\obj\Debug\CustomCursor.pdb
+C:\Users\UwU.cs\source\repos\CustomCursor\CustomCursor\obj\Debug\CustomCursor.CursorChanger.resources
